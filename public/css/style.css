@@ -1,0 +1,25 @@
+img {
+    width: 1500px;
+    height: 800px;
+}
+
+.back{
+    background-image: url("http://localhost/sisges/public/imgs/home.svg");
+   background-position: right top;
+   padding: 100px;
+   background-repeat: no-repeat;
+}
+
+.clear{
+    clear: both;
+}
+
+.color-white{
+    color: #fff;
+}
+
+.slide{
+    padding: 130px;
+}
+
+
